@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="./style.xsl"?>
+<!DOCTYPE books SYSTEM "books.dtd">
+
+<books>
+    <book>
+        <title>El Teléfono Mar</title>
+        <author>Neria Montenegro Moreno</author>
+        <genre>Geología</genre>
+        <copyright>Ediciones Ramses</copyright>
+        <edition>Primera</edition>
+        <isbn>95-6973-443-4</isbn>
+        <publisher>Ediciones Ramses</publisher>
+        <price>$76.25 DLLS</price>
+    </book>
+    <book>
+        <title>La Neurología Cebra</title>
+        <author>Orlando Estevez Urrutia</author>
+        <genre>Biográfico</genre>
+        <copyright>Línea Editorial</copyright>
+        <edition>Segunda</edition>
+        <isbn>95-6615-450-10</isbn>
+        <publisher>Línea Editorial</publisher>
+        <price>$26.81 DLLS</price>
+    </book>
+    <book>
+        <title>El Sanción Esgrimista</title>
+        <author>Aemilius Mendez Contreras</author>
+        <genre>Creatividad</genre>
+        <copyright>Línea Editorial</copyright>
+        <edition>Primera</edition>
+        <isbn>95-6180-775-0</isbn>
+        <publisher>Línea Editorial</publisher>
+        <price>$66.78 DLLS</price>
+    </book>
+    <book>
+        <title>El Tabaco Dromedario</title>
+        <author>Gilberto Guerra Gaitan</author>
+        <genre>Humor</genre>
+        <copyright>Editorial Lom</copyright>
+        <edition>Segunda</edition>
+        <isbn>95-6829-660-3</isbn>
+        <publisher>Editorial Lom</publisher>
+        <price>$39.96 DLLS</price>
+    </book>
+    <book>
+        <title>El Departamento Mantis</title>
+        <author>Salvador Maldonado Villarreal</author>
+        <genre>Ciencia ficción‎</genre>
+        <copyright>Editorial Forja</copyright>
+        <edition>Segunda</edition>
+        <isbn>95-6960-467-0</isbn>
+        <publisher>Editorial Forja</publisher>
+        <price>$9.43 DLLS</price>
+    </book>
+</books>
