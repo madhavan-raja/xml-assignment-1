@@ -5,7 +5,7 @@
 <books>
     <book>
         <title>El Teléfono Mar</title>
-        <author>Neria Montenegro Moreno</author>
+        <author>NERIA MONTENEGRO MORENO</author>
         <genre>Geología</genre>
         <copyright>Ediciones Ramses</copyright>
         <edition>Primera</edition>
@@ -15,7 +15,7 @@
     </book>
     <book>
         <title>La Neurología Cebra</title>
-        <author>Orlando Estevez Urrutia</author>
+        <author>ORLANDO ESTEVEZ URRUTIA</author>
         <genre>Biográfico</genre>
         <copyright>Línea Editorial</copyright>
         <edition>Segunda</edition>
@@ -25,7 +25,7 @@
     </book>
     <book>
         <title>El Sanción Esgrimista</title>
-        <author>Aemilius Mendez Contreras</author>
+        <author>AEMILIUS MENDEZ CONTRERAS</author>
         <genre>Creatividad</genre>
         <copyright>Línea Editorial</copyright>
         <edition>Primera</edition>
@@ -35,7 +35,7 @@
     </book>
     <book>
         <title>El Tabaco Dromedario</title>
-        <author>Gilberto Guerra Gaitan</author>
+        <author>GILBERTO GUERRA GAITAN</author>
         <genre>Humor</genre>
         <copyright>Editorial Lom</copyright>
         <edition>Segunda</edition>
@@ -45,8 +45,8 @@
     </book>
     <book>
         <title>El Departamento Mantis</title>
-        <author>Salvador Maldonado Villarreal</author>
-        <genre>Ciencia ficción‎</genre>
+        <author>SALVADOR MALDONADO VILLARREAL</author>
+        <genre>Ciencia ficción</genre>
         <copyright>Editorial Forja</copyright>
         <edition>Segunda</edition>
         <isbn>95-6960-467-0</isbn>
